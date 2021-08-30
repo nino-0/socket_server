@@ -1,0 +1,9 @@
+--chat
+https://www.neuralnine.com/tcp-chat-in-python/
+https://www.youtube.com/watch?v=3UOyky9sEQY&ab_channel=NeuralNine
+
+--exemplo 1:
+http://net-informations.com/python/net/thread.htm
+
+--exemplo 2:
+https://www.positronx.io/create-socket-server-with-multiple-clients-in-python/
